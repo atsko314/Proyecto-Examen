@@ -55,5 +55,6 @@ public class CatalogoService {
         catalogoRepo.save(model);
         System.out.println("Pizza actualizada con exito en la base de datos");
     }
+    
 
 }
